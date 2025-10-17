@@ -1,0 +1,12 @@
+{
+  "name": "weatherinfo-api",
+  "version": "1.0.0",
+  "description": "Simple weather info API",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
